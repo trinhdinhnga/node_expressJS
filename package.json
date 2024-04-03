@@ -1,0 +1,30 @@
+{
+  "name": "node_expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trinhdinhnga/node_expressJS.git"
+  },
+  "keywords": [
+    "nodejs",
+    "f8"
+  ],
+  "author": "sondn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trinhdinhnga/node_expressJS/issues"
+  },
+  "homepage": "https://github.com/trinhdinhnga/node_expressJS#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
